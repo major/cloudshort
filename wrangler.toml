@@ -2,7 +2,7 @@ name = "cloudshort"
 type = "webpack"
 
 account_id = "acb9035968f7981fb5f2c995fe1d55bc"
-workers_dev = true
-route = ""
+workers_dev = false
+route = "url.major.io/*"
 zone_id = "489806324528caeb844d930cf14ba485"
 compatibility_date = "2022-03-24"
