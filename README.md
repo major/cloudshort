@@ -1,15 +1,15 @@
-# 👷 `worker-template` Hello World
+# Personal URL shortener
 
-A template for kick starting a Cloudflare worker project.
+![idea.gif](idea.gif)
 
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
+This is my personal URL shortener using GitHub Actions and Cloudflare Workers. Kudos to
+[Patrick Reader] for [sharing the worker script on his blog]!
 
-#### Wrangler
+All of the URLs are under the domain `url.major.io`. For example, https://url.major.io
+links to this GitHub repository and https://url.major.io/blog links to my personal blog.
+😉
 
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
+Enjoy!
 
-```
-wrangler generate projectname https://github.com/cloudflare/worker-template
-```
-
-Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+[Patric Reader]: https://www.pxeger.com/
+[sharing the worker script on his blog]: https://www.pxeger.com/2020-08-06-world%27s-simplest-url-shortener-using-cloudflare-workers/
