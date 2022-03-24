@@ -11,5 +11,5 @@ links to this GitHub repository and https://url.major.io/blog links to my person
 
 Enjoy!
 
-[Patric Reader]: https://www.pxeger.com/
+[Patrick Reader]: https://www.pxeger.com/
 [sharing the worker script on his blog]: https://www.pxeger.com/2020-08-06-world%27s-simplest-url-shortener-using-cloudflare-workers/
