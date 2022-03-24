@@ -11,6 +11,6 @@
   "author": "Major Hayden <major@mhtx.net>",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "1.19.1"
   }
 }
